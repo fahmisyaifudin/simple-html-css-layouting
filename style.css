@@ -134,7 +134,7 @@ body{
 }
 
 .col-md-12{
-  grid-column: span 13;
+  grid-column: span 12;
 }
 
 .quote-bold{
